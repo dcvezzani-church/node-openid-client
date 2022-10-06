@@ -22,8 +22,11 @@
     "relying party",
     "strategy"
   ],
-  "homepage": "https://github.com/panva/node-openid-client",
-  "repository": "panva/node-openid-client",
+  "homepage": "https://github.com/dcvezzani-church/node-openid-client",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcvezzani-church/node-openid-client"
+  },
   "funding": {
     "url": "https://github.com/sponsors/panva"
   },
